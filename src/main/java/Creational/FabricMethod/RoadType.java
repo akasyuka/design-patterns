@@ -1,4 +1,4 @@
-package FabricMethod;
+package Creational.FabricMethod;
 
 public enum RoadType {
     CITY,

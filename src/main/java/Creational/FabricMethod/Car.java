@@ -1,4 +1,4 @@
-package FabricMethod;
+package Creational.FabricMethod;
 
 /**
  * Можно использовать абстрактный класс вместо интерфейса
