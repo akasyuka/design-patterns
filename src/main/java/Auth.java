@@ -1,8 +1,13 @@
 public class Auth {
 
-    Connect connect;
+    private Connect connect;
 
     public Auth(Connect connect) {
         this.connect = connect;
     }
+
+    void startConnect() {
+        connect.getCredentials();
+    }
+
 }
